@@ -1,0 +1,44 @@
+_repo: The-Sworn-Brothers-A-Tale-of-the-Early-Days-of-Iceland_62123
+_version: 0.0.1
+alternative_title: Edbrødre. English
+contributor:
+  translators:
+  - agent_name: Emmé, W.
+    alias: Emme, W.
+    gutenberg_agent_id: '51116'
+    url: http://www.gutenberg.org/2009/agents/51116
+  - agent_name: Field, Claud
+    aliases:
+    - Field, C.
+    - Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+creator:
+  author:
+    agent_name: Gunnarsson, Gunnar
+    alias: Gunnarsons, Gunnars
+    birthdate: 1889
+    deathdate: 1975
+    gutenberg_agent_id: '51781'
+    url: http://www.gutenberg.org/2009/agents/51781
+    wikipedia:
+    - https://is.wikipedia.org/wiki/Gunnar_Gunnarsson
+    - https://en.wikipedia.org/wiki/Gunnar_Gunnarsson
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62123'
+  lccn: '21018948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Iceland -- Fiction'
+- GITenberg
+title: 'The Sworn Brothers: A Tale of the Early Days of Iceland'
+url: http://www.gutenberg.org/ebooks/62123
